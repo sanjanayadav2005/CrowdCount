@@ -1,3 +1,6 @@
+CROWD_COUNT - PROJECT 
+
+
 🎯 Real-Time Object Recognition using YOLOv8 and Webcam
 
 This project performs real-time object detection using the YOLOv8 model and a webcam feed.  
@@ -35,7 +38,7 @@ pip install ultralytics opencv-python
 
  ▶️ Run the Program
 
-python green.py
+python run_all.py
 
 ---
 
